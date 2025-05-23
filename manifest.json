@@ -1,0 +1,10 @@
+{
+  "name": "Productivity Extension",
+  "description": "Extension that manages a work day and controls website access accordingly",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": "icons/icon_extension.png"
+  }
+}
